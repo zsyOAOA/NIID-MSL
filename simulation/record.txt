@@ -1,0 +1,5 @@
+Single Gauss:
+    seed = 1000;  val = 0.2;
+
+Unif Sparse:
+
