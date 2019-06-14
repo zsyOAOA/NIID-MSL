@@ -1,1 +1,7 @@
-All the datasets can be download from: https://drive.google.com/drive/folders/12aFroF3aR7t5PwmlLt4WGiAW33XpD9E0?usp=sharing
+We provide two downloading link of the datasets:
+1. Google Drive
+   https://drive.google.com/drive/folders/12aFroF3aR7t5PwmlLt4WGiAW33XpD9E0?usp=sharing
+2. Baidu Cloud:
+   https://pan.baidu.com/s/1_-wFJGrTARPd_6iRkJhYgg
+   password: 7ila
+
