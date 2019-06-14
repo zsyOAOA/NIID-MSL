@@ -13,8 +13,8 @@ and C. If you have any questions, please feel free to contact me (zsy20110806207
 
 # How to run
 1. Download the dataset from the following link and put them in the ./data floder.
-*Google Drive link: https://drive.google.com/drive/folders/12aFroF3aR7t5PwmlLt4WGiAW33XpD9E0?usp=sharing
-*Baidu Cloud link: https://pan.baidu.com/s/1_-wFJGrTARPd_6iRkJhYgg, Password: 7ila
+* Google Drive link: https://drive.google.com/drive/folders/12aFroF3aR7t5PwmlLt4WGiAW33XpD9E0?usp=sharing
+* Baidu Cloud link: https://pan.baidu.com/s/1_-wFJGrTARPd_6iRkJhYgg, Password: 7ila
 
 2. Switch to the root path of thei project and add path to matlab
 <pre><pre><code> init_path </code></pre></pre>
